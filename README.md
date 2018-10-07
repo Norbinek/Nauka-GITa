@@ -1,4 +1,4 @@
-Zmiana brancha
+kolejna zmianaxxxx
 ## Nauka GITa
 ##### Czesc <h7> Witamy
 ![GitHub
