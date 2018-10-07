@@ -10,6 +10,3 @@ logo](http://gif-finder.com/wp-content/uploads/2017/09/Funny-Flip-Fail.gif)
 * raz
  1. dwa
 2. trzy
-
->>>> raz
-dwa
