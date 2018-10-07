@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 kolejna zmianaxxxx
+=======
+jeszcze raz
+>>>>>>> Testowo1
 ## Nauka GITa
 ##### Czesc <h7> Witamy
 ![GitHub
